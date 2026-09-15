@@ -33,7 +33,7 @@
 
 # About Me
 
-I'm a Software Engineering graduate from FAST-NUCES who enjoys working on both sides of software development: building products and figuring out where they can break. My main interests are AI engineering and software quality assurance, so most of my work sits somewhere between machine learning, NLP, RAG and LLM applications, API and database testing, and test automation. I like working on systems where I can understand what is happening under the hood instead of treating testing as a final step after development. I've also been exploring workflow automation with n8n and enjoy connecting APIs, services and AI tools into practical end-to-end workflows.
+I'm a Software Engineering graduate from FAST-NUCES with a CGPA of **3.21**, and I was named to the **Dean's List in Fall 2025 and Spring 2026**. I have also achieved an **overall IELTS Band 7**. My interests sit at the intersection of **AI Engineering and Software Quality Assurance**, so I enjoy both building software and understanding how to make it more reliable. I work with machine learning, NLP, RAG, LLM-based applications, API and database testing, and test automation using tools such as Playwright, Selenium, Postman and Jira. I've also been exploring workflow automation with n8n, connecting APIs, AI tools and services into practical end-to-end workflows. What I enjoy most is being able to understand a system from both sides: how it is built and how it can be tested, improved and made ready to ship.
 
 ---
 
